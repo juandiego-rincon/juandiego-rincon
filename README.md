@@ -32,7 +32,26 @@
     <img src="https://skillicons.dev/icons?i=git,github,postgres,docker,linux,kali&theme=light" />
   </a>
 
-# ☕ Connect with me: 
+# 📫 Connect with me: 
+
+  <br>
+
+[![https://www.linkedin.com/in/juan-diego-rinc%C3%B3n-7404b4374/](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/juan-diego-rinc%C3%B3n-7404b4374/")![juanchod1997@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "juanchod1997@gmail.com")](juanchod1997@gmail.com)
+
+<br>
 
   
 # 📈 Github stats:
+
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
+<br>
+  </div>
+<div align=center>
+<!--- stats & Trophy (start) -->
+<a href="https://github.com/juandiego-rincon">
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=juandiego-rincon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juandiego-rincon&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</div>
+
+</div>
