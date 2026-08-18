@@ -37,7 +37,7 @@
 <a href="mailto:juanchod1997@gmail.com">
   <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />
 </a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/juan-diego-rinc%C3%B3n-7404b4374/" target="_blank">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/juan-diego-rincón-7404b4374" target="_blank">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 
