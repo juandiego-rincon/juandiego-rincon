@@ -13,12 +13,15 @@
 </p>
 
 
+
 # 💫 About Me:
 
 - 🎓 Systems Engineering Student - currently pursuing a professional degree at [Uniminuto](https://www.uniminuto.edu/)
 - 🛡️ ISO/IEC 27001:2022 Internal Auditor Certification
 - 🔐 Google's Online Cybersecurity Certification
 - 🏡 'Lives in **Zipaquirá, Cundinamarca, Colombia**
+
+  
 
 # 💻 Tech Stack:
 
@@ -32,14 +35,21 @@
     <img src="https://skillicons.dev/icons?i=git,github,postgres,docker,linux,kali&theme=light" />
   </a>
 
+
+
 # 📫 Connect with me: 
 
-<a href="mailto:juanchod1997@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />
+<li>
+<a href="mailto:juandiegorincono@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/juan-diego-rincón-7404b4374" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+</li>
+<li>
+<a href="https://linkedin.com/in/juan-diego-rincón" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
+</li>
+
 
   
 # 📈 Github stats:
